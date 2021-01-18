@@ -1,8 +1,8 @@
-#But really... Who are we
+# But really... Who are we
 
 ---
 
-###Zhogo (Nathan Roussel)
+### Zhogo (Nathan Roussel)
 
 Electrical engineering student who loves embedded electronic and rocket stuff... And lego animation. Like to work arround even if it's bad.
 
@@ -16,7 +16,7 @@ Ableton & cool vst - Processing - Gimp - Lightroom - Premiere
 
 ---
 
-###Michel
+### Michel
 
 Stuff about me.
 
