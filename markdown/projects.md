@@ -4,13 +4,13 @@
 
 ## [Our Website](https://github.com/Zhogo/site-challenge) - .html,.md
 
-Describe the process making of this website from markdown to html/css.
+Describe the process of making this website from markdown to html/css.
 
 From Zogo with <3
 
 ---
 
-## [My virtual karaoke]() - processing
+## [My virtual karaoke](https://github.com/Zhogo/virtual_karaoke) - processing
 
 If you want to sing along famous philosophers or just making weird content.
 
