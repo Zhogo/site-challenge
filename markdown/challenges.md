@@ -1,8 +1,8 @@
-#Our Challenges
+# Our Challenges
 
 ---
 
-##[Music] City in motion
+## [Music] City in motion
 
 Explication du theme
 
@@ -13,11 +13,11 @@ Entries:
 
 ---
 
-##[Video] Fish documentary
+## [Video] Fish documentary
 
 ---
 
-##[Montage] Triptic
+## [Montage] Triptic
 
 ---
 
